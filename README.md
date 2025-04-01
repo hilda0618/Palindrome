@@ -1,5 +1,8 @@
 # 🔁 Palindrome Checker (No Slicing!)
 
+## 👩‍🏫 Intro to Computer Science – Ms. Liu  
+**All instructional content created by Hilda Liu**  
+
 ## 🧑‍🏫 Project Overview
 
 This beginner-friendly Python project helps students build a **palindrome checker** using **loops and string logic** — without using slicing (`[::-1]`).  
